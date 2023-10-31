@@ -220,6 +220,7 @@ int main()
 
         case 6:
             l1.reverse();
+            cout<<"\t\t\t\tlinked list in Reverse Order :";
             l1.display();
             break;
 
